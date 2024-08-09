@@ -1,0 +1,21 @@
+body {
+    background-color: black;
+}
+
+.motivation {
+    width: 50%;
+    margin: 100px auto 0; /* Center the div */
+    color: white;
+    font-family: "Libre Baskerville", serif;
+    text-align: center;
+}
+
+img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    border: 5px solid white; /* Keep the border */
+}
+
+h1 {
+    font-family: "Libre Baskerville", serif;
+}
